@@ -1,8 +1,15 @@
 package com.project;
 
 
+//<<<<<<< HEAD
 //this is updated line
-
+//=======
+//this change done in git editor online
+//>>>>>>> 15ff42e3f195605fd37efa2cd44655ef365d0367
+   
+   
+//adding new changes to this file for 2nd time   
+   
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
