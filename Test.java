@@ -1,7 +1,6 @@
 package com.project;
 
 
-//this change done in git editor online
 
 import java.sql.Connection;
 import java.sql.DriverManager;
